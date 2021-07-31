@@ -14,7 +14,6 @@ const Home = () => {
     setBlogs(newBlogs);
   }
 
-
   return ( 
     <div className="home">
     <BlogList blogs={blogs} title="All Blogs" handleDelete={handleDelete} />
