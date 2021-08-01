@@ -23,6 +23,12 @@
       "body": "body 2",
       "author": "yoshi",
       "id": 4
+    },
+    {
+      "title": "test 3",
+      "body": "body 3",
+      "author": "mario",
+      "id": 5
     }
   ]
 }
